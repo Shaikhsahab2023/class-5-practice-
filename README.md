@@ -1,0 +1,2 @@
+# class-5-practice-
+PYTHON LIST DATA TYPE METHOD
